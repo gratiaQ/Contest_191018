@@ -1,1 +1,1 @@
-Python_ML_textbook
+대전 아이디어 공모전 
